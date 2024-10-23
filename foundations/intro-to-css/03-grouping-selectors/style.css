@@ -1,0 +1,14 @@
+.btn-balck{
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.btn-yellow{
+    background-color: #def534;
+}
+
+.btn-balck,
+.btn-yellow{
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
